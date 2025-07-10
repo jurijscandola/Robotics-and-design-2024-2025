@@ -1,0 +1,5 @@
+python3-opencv
+numpy
+pyserial
+pupil-apriltags
+picamera2
